@@ -31,14 +31,14 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - VR Scenes and Objects - Build an Apartment
 
 
-How long it took to complete the project.
+### How long it took to complete the project.
 2-3 hours
 
 
-One thing you liked about the project.
+### One thing you liked about the project.
 building it from scratch
 
 
-One thing that was particularly challenging about the project.
+### One thing that was particularly challenging about the project.
 
 Lighting ... i followed the instructions in documentation and apply it more than one time so I tried hard to make it perfect
