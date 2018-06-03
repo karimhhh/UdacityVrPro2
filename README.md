@@ -8,7 +8,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 ### Versions Used
 - [Unity LTS Release 5.6.4.1f](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 - [GVR SDK for Unity v1.100.1](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.100.1)
-
+- Build for Android
 
 ### Directory Structure
 - The Unity project is the child directory of the repository and named according to the associated lesson.
@@ -31,7 +31,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - VR Scenes and Objects - Build an Apartment
 
 
-How long it took to complete the project.
+### How long it took to complete the project.
 2-3 hours
 
 
